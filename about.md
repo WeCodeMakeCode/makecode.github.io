@@ -4,5 +4,8 @@ title: "About We Code MakeCode"
 permalink: /about/content
 ---
 
-this is stuff that is not layout
+# Header 1
+stuff not header
+## Header 2
+more stuff
 
