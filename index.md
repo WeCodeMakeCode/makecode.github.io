@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[about](about/content)
+[about](/about/content)
 
 You can use the [editor on GitHub](https://github.com/WeCodeMakeCode/makecode.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
