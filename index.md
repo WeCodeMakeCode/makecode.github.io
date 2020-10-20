@@ -2,6 +2,10 @@
 
 [about](/makecode.github.io/about/content)
 
+##  Blog Posts
+[about](/makecode.github.io/_posts/2020-10-20-Hello-World)
+
+
 You can use the [editor on GitHub](https://github.com/WeCodeMakeCode/makecode.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
